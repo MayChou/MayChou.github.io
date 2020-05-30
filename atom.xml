@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://maychou.github.io/"/>
-  <updated>2020-05-29T15:01:06.035Z</updated>
+  <updated>2020-05-29T18:12:04.000Z</updated>
   <id>https://maychou.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020-05-30未命名文件</title>
+    <link href="https://maychou.github.io/2020/05/30/2020-05-30%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6/"/>
+    <id>https://maychou.github.io/2020/05/30/2020-05-30%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6/</id>
+    <published>2020-05-30T02:14:34.986Z</published>
+    <updated>2020-05-29T18:12:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎使用 <strong>{小书匠}(xiaoshujiang)编辑器</strong>，您可以通过 <code>小书匠主按钮&gt;模板</code> 里的模板管理来改变新建文章的内容。<br><img src="./images/2.png" alt="enter description here"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;欢迎使用 &lt;strong&gt;{小书匠}(xiaoshujiang)编辑器&lt;/strong&gt;，您可以通过 &lt;code&gt;小书匠主按钮&amp;gt;模板&lt;/code&gt; 里的模板管理来改变新建文章的内容。&lt;br&gt;&lt;img src=&quot;./images/2.png&quot; alt=&quot;enter de
+      
+    
+    </summary>
+    
+    
+    
+      <category term="新建,模板,小书匠" scheme="https://maychou.github.io/tags/%E6%96%B0%E5%BB%BA-%E6%A8%A1%E6%9D%BF-%E5%B0%8F%E4%B9%A6%E5%8C%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>智慧交通前端界面</title>
